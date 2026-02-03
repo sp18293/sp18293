@@ -3,7 +3,7 @@
 
 ## I am Saana!
 
-I’m a curious learner exploring the world of technology. With a background in finance, I enjoy combining analytical thinking with new technical skills and am excited to see where this journey leads.
+Curious tech learner with a finance background, exploring new technologies and enjoying the journey of continuous learning 🚀
 
 
 <!--
